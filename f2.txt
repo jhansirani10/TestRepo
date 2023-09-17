@@ -1,12 +1,1 @@
 f2
-
-hi
-there
-here
-second commit
-here
-first commit
-
-third commit
-
-tu
